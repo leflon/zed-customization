@@ -1,0 +1,7 @@
+id = "leflon-theme"
+name = "Leflon Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Paul Leflon"]
+description = "My Dark Theme"
+repository = "https://github.com/leflon/zed-customization"
