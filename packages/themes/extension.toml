@@ -1,7 +1,7 @@
 id = "leflon-theme"
 name = "Leflon Theme"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Paul Leflon"]
-description = "My Dark Theme"
+description = "Vibrant theme for joyful programming."
 repository = "https://github.com/leflon/zed-customization"
